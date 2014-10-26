@@ -95,7 +95,7 @@ namespace Microsoft.Samples.Kinect.SkeletonBasics
                 return (int)posturas.MCorto;
             }
 
-            return (int)posturas.Error;
+            
         }
         //Comprueba si el esqueleto esta en la posicion inicial
         public bool comprueba_inicial(float error)

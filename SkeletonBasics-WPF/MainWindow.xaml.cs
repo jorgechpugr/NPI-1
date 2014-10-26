@@ -84,6 +84,9 @@ namespace Microsoft.Samples.Kinect.SkeletonBasics
         //Instancio el objeto de la clase movimiento41.
         private movimiento41 mov41 = new movimiento41();
 
+        //Instancio el objeto de la clase movimiento29.
+        private Movimiento29 mov29 = new Movimiento29(5,12);
+
         /// <summary>
         /// Initializes a new instance of the MainWindow class.
         /// </summary>
@@ -286,25 +289,16 @@ namespace Microsoft.Samples.Kinect.SkeletonBasics
             this.DrawBone(skeleton, drawingContext, JointType.AnkleRight, JointType.FootRight);
 
             //Envio el esquelo junto con los valores para obtener la posicion en la que se encuentra el esqueleto.
-            int mov = mov41.detection(skeleton, 0.10f, 0.05f);
-            Brush color;
+           // int mov = mov41.detection(skeleton, 0.10f, 0.05f);
+            byte resultado = mov29.isPiernaDesplazadaEjeNegZ(skeleton);
+            Brush color = Brushes.Green;
             //Determino el color con el que mostrar el esqueleto.
-            if (mov == 0) {
-                color = Brushes.Yellow;
-            }
-            else if (mov == 1)
-            {
-                color = Brushes.Green;
-            }
-            else if (mov == 2)
+            if (resultado == 1)
             {
                 color = Brushes.Turquoise;
             }
-            else if (mov == 3)
+            else if (resultado == 2)
             {
-                color = Brushes.Yellow;
-            }
-            else {
                 color = Brushes.Red;
             }
            

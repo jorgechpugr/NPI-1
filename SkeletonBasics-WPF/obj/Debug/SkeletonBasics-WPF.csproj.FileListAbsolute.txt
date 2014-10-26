@@ -10,3 +10,15 @@ C:\Users\Washavi\Desktop\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.S
 C:\Users\Washavi\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
 C:\Users\Washavi\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
 C:\Users\Washavi\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\jorge\Documents\NPI\P1\repositorio_kinect\NPI-1\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
